@@ -28,7 +28,7 @@ cd
 rm -rf /root/.bashrc
 wget -O /root/.bashrc https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/.bashrc
 #install cf
-wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/cloudflare.sh && chmod +x cloudflare.sh && ./cloudflare.sh
+wget https://raw.githubusercontent.com/dinhquoc1st/autoscript/main/cloudflare.sh && chmod +x cloudflare.sh && ./cloudflare.sh
 #install ssh ovpn
 wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/sstp.sh && chmod +x sstp.sh && ./sstp.sh
